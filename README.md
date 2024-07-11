@@ -57,3 +57,10 @@ A RESTful API service built with Spring Boot to manage the leaderboard for a cod
 * **POST /users**: Register a new user to the contest
 * **PUT /users/{userId}**: Update the score of a specific user
 * **DELETE /users/{userId}**: Deregister a specific user from the contest
+
+### API Testing
+
+For testing the API endpoints, you can use the following Postman Collection:
+
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/19032644-4d68760a-dd67-48f8-a2a2-37091dc37e0a?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D19032644-4d68760a-dd67-48f8-a2a2-37091dc37e0a%26entityType%3Dcollection%26workspaceId%3D8ffcea5c-fb17-4ea1-a212-023358a283e2)       
+
